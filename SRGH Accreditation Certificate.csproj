@@ -9,6 +9,8 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
 
 	  <UseWindowsForms>true</UseWindowsForms>
+
+	  <ApplicationIcon>IT.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
